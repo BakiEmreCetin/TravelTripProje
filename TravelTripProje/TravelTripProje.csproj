@@ -158,6 +158,19 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="images\29ccrbV8fE.png" />
+    <Content Include="images\58w1iDHZmx.png" />
+    <Content Include="images\98opajyadj.png" />
+    <Content Include="images\aqV2TGHwWM.png" />
+    <Content Include="images\azlu5Bpp9X.png" />
+    <Content Include="images\BUx6aH4tGG.png" />
+    <Content Include="images\EwioFBMRLz.png" />
+    <Content Include="images\m33MWZj7JY.png" />
+    <Content Include="images\pQedTUYb0B.png" />
+    <Content Include="images\qkQWpwlfUz.png" />
+    <Content Include="images\Sp65wiBvMS.png" />
+    <Content Include="images\SwnKTDG1vH.png" />
+    <Content Include="images\UZOgMuQIxI.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="web2\about.html" />
@@ -272,7 +285,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
